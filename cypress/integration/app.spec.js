@@ -38,7 +38,7 @@ describe('TodoMVC', function () {
     //
     // We've set our baseUrl to be http://localhost:8080
     // which is automatically prepended to cy.visit
-    //
+    // comment to test
     // https://on.cypress.io/api/visit
     cy.visit('/')
   })
